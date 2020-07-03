@@ -1,0 +1,3 @@
+import trade
+
+trade.run()
